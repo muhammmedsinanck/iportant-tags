@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+table{
+    background-color: rgb(214, 214, 226);
+}
+label{
+    position: relative;left:50%;
+}
+input{
+    position: relative;left:25%;
+}
+button{
+    position: relative;left:80%;
+} 
+select{
+    position: relative;left:55%;
+}
+form{
+    position: relative;left: 30%;
+
+}
+td{
+    padding-top:5%;
+    padding-bottom: 1.5%;
+    padding-right: 10%;
+}
+body{
+    background-image: url('Untitled.png');
+    background-repeat: no-repeat;
+}
